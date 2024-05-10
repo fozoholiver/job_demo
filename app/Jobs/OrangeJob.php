@@ -250,6 +250,8 @@ class OrangeJob implements ShouldQueue
             'code' => $e->getCode(),
         ]);
 
+
+        
     }
 
 }
