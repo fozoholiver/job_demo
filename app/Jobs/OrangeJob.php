@@ -251,7 +251,7 @@ class OrangeJob implements ShouldQueue
         ]);
 
 
-        
+
     }
 
 }

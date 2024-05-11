@@ -20,6 +20,8 @@ class ConnectpayOrangeController extends Controller
                 OrangeJob::dispatch($orange);
             }
         }
+
+        //jhjh
 //        $orange='hello';
 //        OrangeJob::dispatch($orange);
     }
